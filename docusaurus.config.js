@@ -101,17 +101,17 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/vbW9CH27',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/brendendurham',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/brendendurham'
+              }
             ],
           },
           {
@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/brendendurham',
               },
             ],
           },
